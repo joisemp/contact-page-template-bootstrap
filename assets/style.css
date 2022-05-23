@@ -10,13 +10,13 @@
   z-index: 99;
   font-size: 18px;
   cursor: pointer;
-  background-color: #A63BA2;
-  border-color: #A63BA2;
+  background-color: #b1a325;
+  border-color: #b1a325;
 }
 
 #myBtn:hover {
-  background-color: #973c96;
-  border-color: #973c96;
+  background-color: #89973c;
+  border-color: #89973c;
 }
 
 /* CUSTOMIZE THE NAVBAR
@@ -47,7 +47,7 @@
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #A63BA2;
+  color: #b1a325;
 }
 
 @media screen and (max-width: 991px) {
@@ -106,15 +106,15 @@
   color: #fff;
   font-weight: 400;
   padding: 1rem 0.75rem;
-  background-color: #A63BA2;
-  border-color: #A63BA2;
+  background-color: #b1a325;
+  border-color: #b1a325;
   margin-bottom: 1rem;
   width: 100%;
 }
 
 .section .btn-primary:hover {
-  background-color: #973c96;
-  border-color: #973c96;
+  background-color: #89973c;
+  border-color: #89973c;
 }
 
 .section .input-wrapper {
@@ -135,7 +135,7 @@
   letter-spacing: -.05rem;
   padding-bottom: 0.5rem;
   margin-bottom: 0;
-  color: #A63BA2;
+  color: #b1a325;
   line-height: 0;
   padding: 3rem 0 1rem 0;
 }
